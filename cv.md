@@ -29,7 +29,7 @@ Brief information about me
 ----------
 
 My goal and priorities is to become an independent, fully-fledged adult, and, of course, find a dream job.
-I quickly learn new things and am eager to work **(it would be time already);
+I quickly learn new things and am eager to work **(it would be time already);**
 
 Skills
 --------------------
