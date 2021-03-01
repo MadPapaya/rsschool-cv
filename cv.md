@@ -2,7 +2,7 @@
 
 # Maxim Ostrovsky
 
-<div><span><img src="assets/phone.svg" width="18px"> +375255337774 </span> · <span> <img src="assets/email.svg" width="18px"> weekofkex@gmail.com </span> · <span> <img src="assets/github.svg" width="18px"> [MadPapaya](https://github.com/MadPapaya) </span> · <span><img src="assets/tg.svg" width="18px"> @DusheGubka</span> </div>
+<div><span><img src="assets/phone.svg" width="18px"> +375255337774 </span> · <span> <img src="assets/email.svg" width="18px"> weekofkex@gmail.com </span> · <span> <img src="assets/github.svg" width="18px"> <a href="https://github.com/MadPapaya">MadPapaya</a> </span> · <span><img src="assets/tg.svg" width="18px"> @DusheGubka</span> </div>
 
 </center>
 
