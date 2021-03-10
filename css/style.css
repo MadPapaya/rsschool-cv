@@ -3,9 +3,10 @@
     box-shadow: 0 0 0 0px rgb(0, 0, 0), 0 0 13px #333;
 }
 
-.center{
-    text-align: center;
-    }
+.center {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 h1,
 h2 {
@@ -52,7 +53,7 @@ body {
 }
 
 mark {
-    background:rgb(247, 247, 247);
+    background: rgb(247, 247, 247);
 }
 
 a {
@@ -123,4 +124,14 @@ blockquote {
 
 blockquote blockquote {
     padding-right: 0;
+}
+
+.header {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.list_item {
+    display: inline-block;
+    margin-right: 30px;
 }
